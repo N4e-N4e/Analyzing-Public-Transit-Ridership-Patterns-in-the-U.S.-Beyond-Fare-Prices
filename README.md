@@ -1,0 +1,2 @@
+# Analyzing-Public-Transit-Ridership-Patterns-in-the-U.S.-Beyond-Fare-Prices
+This project explores monthly public transit ridership and service data from the Federal Transit Administration (FTA) to understand the complex factors that influence usage across U.S. transit agencies. The dataset includes metrics such as passenger trips, fare revenue, operating expenses, service area population, and type of transportation.
